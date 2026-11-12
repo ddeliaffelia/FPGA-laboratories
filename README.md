@@ -8,7 +8,7 @@ First version of the code is in "lab2 1LED" text document, the second version is
 First two exercises are in "lab3_PART1_2" text file, 3rd is in the Verilog file. Video proof attached for 2nd and 3rd exercises, with the counter.
 
 ## LAB 4 (29.10.2026)
-Both exercises are in a text document named "lab 4 FPGA". Video named "PROOF" shows the song from the buzzer
+Both exercises are in a text document named "lab 4 FPGA". Video proof found in the zip shows the song from the buzzer
 
 ## LAB 5 (05.11.2026)
 The code generates a "thumbs up" emoticon, video proof in zip
