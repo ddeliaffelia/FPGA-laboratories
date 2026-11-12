@@ -6,3 +6,6 @@ First version of the code is in "lab2 1LED" text document, the second version is
 
 ## LAB 3 (22.10.2026)
 First two exercises are in "lab3_PART1_2" text file, 3rd is in the Verilog file. Video proof attached for 2nd and 3rd exercises, with the counter.
+
+## LAB 5 (05.11.2026)
+The code generates a "thumbs up" emoticon, video proof in zip
